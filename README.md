@@ -1,17 +1,16 @@
 <div align="center">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Header Image">
 </div>
-<h1 align="center">Hello, I'm San Visal 👋</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
-<img align="right" alt="Coding Illustration" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<p align="left">
+
+# Hello, I'm San Visal 👋
+## A Passionate Backend Developer
+
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=sanvisal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-    📫 You can reach me at sanvisal2302@gmail.com
-
-<h3 align="left">Technologies & Tools:</h3>
-<p align="left">
+## Skills
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -60,14 +59,20 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-</p><div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanvisal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sanvisal&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanvisal&" alt="GitHub Streak" />
-  </p>
-</div>
+</p>
+
+## My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanvisal&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvisal&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanvisal&theme=radical" alt="GitHub Streak" />
+</p>
+
+## My Wakatime Stats
+<p align="center">
+  <img src="https://wakatime.com/share/@sanvisal/9e4d8e88-4056-4f08-9e30-6e145b61b7fc.svg" alt="Wakatime Stats" />
+</p>
